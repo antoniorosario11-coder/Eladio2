@@ -1,0 +1,38 @@
+body {
+  margin:0;
+  padding:0;
+}
+
+
+
+
+nav {
+  background-color:black;
+  height:50px;
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+nav a {
+  color:lightblue;
+  text-decoration:none;
+  margin: auto;
+}
+
+nav a:visited {
+  color:brown;
+}
+
+
+nav a:hover {
+  color: brown;
+}
+
+nav a:link {
+  color:lightblue;
+}
+
+.galeria{
+  width:300px;
+}
